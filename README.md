@@ -91,7 +91,7 @@ Aura Clothing is a full-stack web application built using PHP and MySQL. It prov
 
 ## Admin Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](dashbord.png)
 
 ---
 
@@ -99,7 +99,18 @@ Aura Clothing is a full-stack web application built using PHP and MySQL. It prov
 
 ▶️ Watch the demo here:
 
-https://github.com/pamudimaleesha/aura-clothing/assets/demo.mp4
+
+
+https://github.com/user-attachments/assets/64e8d866-dda6-4680-bcc4-0bfee8036074
+
+---
+
+
+
+
+
+
+
 
 
 
