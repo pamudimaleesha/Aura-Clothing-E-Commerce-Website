@@ -1,4 +1,19 @@
 # 🛍️ Aura Clothing E-Commerce Website
+<p align="center">
+
+<img src="https://img.shields.io/github/stars/pamudimaleesha/Aura-Clothing-E-Commerce-Website?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/forks/pamudimaleesha/Aura-Clothing-E-Commerce-Website?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/issues/pamudimaleesha/Aura-Clothing-E-Commerce-Website?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/last-commit/pamudimaleesha/Aura-Clothing-E-Commerce-Website?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/repo-size/pamudimaleesha/Aura-Clothing-E-Commerce-Website?style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=pamudimaleesha&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
 
 A modern and responsive e-commerce web application developed for online clothing shopping. Customers can browse products, add items to their cart or wishlist, place orders securely, and manage their accounts. The system also includes an admin dashboard for managing products, categories, users, and orders.
 
@@ -9,6 +24,26 @@ A modern and responsive e-commerce web application developed for online clothing
 Aura Clothing is a full-stack web application built using PHP and MySQL. It provides a user-friendly shopping experience while allowing administrators to efficiently manage the online store.
 
 ---
+
+## 📊 GitHub Statistics
+
+
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=pamudimaleesha&theme=tokyonight"/>
+
+</p>
+
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,vscode,git,github"/>
+
+</p>
+
 
 ## ✨ Features
 
@@ -37,16 +72,17 @@ Aura Clothing is a full-stack web application built using PHP and MySQL. It prov
 ## 🛠️ Technologies Used
 
 ### Frontend
-- HTML5
-- CSS3
-- Bootstrap 5
-- JavaScript
+## 🛠️ Built With
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
-- PHP
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Database
-- MySQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Development Tools
 - XAMPP
