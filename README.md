@@ -61,7 +61,7 @@ Aura Clothing is a full-stack web application built using PHP and MySQL. It prov
 
 ## Home Page
 
-![Home](screenshots/home.png)
+![Home](home.png)
 
 ---
 
