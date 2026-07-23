@@ -1,15 +1,6 @@
 # 🛍️ Aura Clothing E-Commerce Website
 <p align="center">
 
-<img src="https://img.shields.io/github/stars/pamudimaleesha/Aura-Clothing-E-Commerce-Website?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/forks/pamudimaleesha/Aura-Clothing-E-Commerce-Website?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/issues/pamudimaleesha/Aura-Clothing-E-Commerce-Website?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/last-commit/pamudimaleesha/Aura-Clothing-E-Commerce-Website?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/repo-size/pamudimaleesha/Aura-Clothing-E-Commerce-Website?style=for-the-badge"/>
 
 <img src="https://komarev.com/ghpvc/?username=pamudimaleesha&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
